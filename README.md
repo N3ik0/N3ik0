@@ -32,14 +32,4 @@ I value:
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,github,html,js,php,python,symfony,react,docker,figma,notion,grafana,&perline=5)](https://skillicons.dev)
-
----
-
-### 📊 Quick Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8db392?style=social&logo=bitrise&logoSize=auto)](https://brennervalentin.fr/)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,github,html,js,php,python,symfony,react,docker,figma,notion,grafana)](https://skillicons.dev)
