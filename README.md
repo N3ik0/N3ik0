@@ -1,17 +1,45 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DE46C&width=435&lines=%F0%9F%91%8B+Hello+I'm+Valentin+!)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8db392?style=social&logo=bitrise&logoSize=auto)](https://brennervalentin.fr/) ![](https://img.shields.io/badge/PHP-white?style=plastic&logo=php&logoSize=auto) ![](https://img.shields.io/badge/Python-white?style=plastic&logo=python&logoSize=auto)
-<!--
-**N3ik0/N3ik0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/Portfolio-8db392?style=social&logo=bitrise&logoSize=auto)](https://brennervalentin.fr/)
 
-Here are some ideas to get you started:
+### From Banking to Artificial Intelligence.
+Currently pursuing a **Master of Science specializing in AI at Epitech** (France), I combine my past financial expertise with my new skills in Data Science and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Currently Building
+
+Most of my projects are SaaS solutions currently in development (private repos), but my main focus is **FinTech**.
+
+**🧠 Flagship Project: Autonomous Trading Agent**
+I am developing a decision-making architecture based on **Ensemble Learning** to mitigate false signals. The model relies on three simultaneous analysis pillars:
+
+* 📈 **Tabular AI:** Quantitative analysis of raw market data.
+* 👁️ **Computer Vision (CNN):** Technical analysis and chart pattern detection using Convolutional Neural Networks.
+* 🌍 **Macroeconomics:** Integration of exogenous variables for global context.
+
+---
+
+### 🎯 My Philosophy
+> *"Simplicity is the ultimate sophistication."*
+
+I value:
+* **Clarity:** Readable and documented code, even for complex models.
+* **Efficiency:** Focusing on essentials without over-engineering (KISS).
+* **Business Value:** I don't just code for the sake of coding; I solve real financial problems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,github,html,js,php,python,symfony,react,docker,figma,notion,grafana,&perline=5)](https://skillicons.dev)
+
+---
+
+### 📊 Quick Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8db392?style=social&logo=bitrise&logoSize=auto)](https://brennervalentin.fr/)
