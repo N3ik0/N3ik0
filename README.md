@@ -32,7 +32,7 @@ I value:
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,sql,symfony,angular,react,js,html,css,linux,docker,git,gitlab,github,grafana,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,mysql,symfony,angular,react,js,html,css,linux,docker,git,gitlab,github,grafana,figma,notion)](https://skillicons.dev)
 
 ---
 
