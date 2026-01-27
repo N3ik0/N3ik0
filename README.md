@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DE46C&width=435&lines=%F0%9F%91%8B+Hello+I'm+Valentin+!)](https://brennervalentin.fr/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DE46C&width=435&lines=%F0%9F%91%8B+Hello+I'm+Valentin+!)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8db392?style=social&logo=bitrise&logoSize=auto)](https://brennervalentin.fr/)
 
 ### From Banking to Artificial Intelligence.
 Currently pursuing a **Master of Science specializing in AI at Epitech** (France), I combine my past financial expertise with my new skills in Data Science and Machine Learning.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8db392?style=social&logo=bitrise&logoSize=auto)](https://brennervalentin.fr/)
 
 ---
 
@@ -32,4 +32,12 @@ I value:
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,gitlab,github,html,js,php,python,symfony,react,docker,figma,notion,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,sql,symfony,angular,react,js,html,css,linux,docker,git,gitlab,github,grafana,figma,notion)](https://skillicons.dev)
+
+---
+
+### 📚 Currently Exploring
+I'm currently deep-diving into these topics to enhance my AI models:
+* 🔬 **Reinforcement Learning (PPO/DQN)** for portfolio optimization.
+* ⚡ **Model Quantization** to optimize inference speed in SaaS environments.
+* 🏗️ **Microservices Architecture** for scalable trading backends.
