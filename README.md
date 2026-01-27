@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DE46C&width=435&lines=%F0%9F%91%8B+Hello+I'm+Valentin+!)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=social&logo=bitrise&logoSize=auto)](https://brennervalentin.fr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=social&logo=bitrise&logoColor=5DE46C&logoSize=auto&link=https%3A%2F%2Fbrennervalentin.fr%2F)](https://brennervalentin.fr/)
 
 ### From Banking to Artificial Intelligence.
 Currently pursuing a **Master of Science specializing in AI at Epitech** (France), I combine my past financial expertise with my new skills in Data Science and Machine Learning.
