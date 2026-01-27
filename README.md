@@ -14,9 +14,9 @@ Most of my projects are SaaS solutions currently in development (private repos),
 **🧠 Flagship Project: Autonomous Trading Agent**
 I am developing a decision-making architecture based on **Ensemble Learning** to mitigate false signals. The model relies on three simultaneous analysis pillars:
 
-* 📈 **Tabular AI:** Quantitative analysis of raw market data.
-* 👁️ **Computer Vision (CNN):** Technical analysis and chart pattern detection using Convolutional Neural Networks.
-* 🌍 **Macroeconomics:** Integration of exogenous variables for global context.
+*  **Tabular AI:** Quantitative analysis of raw market data.
+*  **Computer Vision (CNN):** Technical analysis and chart pattern detection using Convolutional Neural Networks.
+*  **Macroeconomics:** Integration of exogenous variables for global context.
 
 ---
 
@@ -38,6 +38,6 @@ I value:
 
 ### 📚 Currently Exploring
 I'm currently deep-diving into these topics to enhance my AI models:
-* 🔬 **Reinforcement Learning (PPO/DQN)** for portfolio optimization.
-* ⚡ **Model Quantization** to optimize inference speed in SaaS environments.
-* 🏗️ **Microservices Architecture** for scalable trading backends.
+*  **Reinforcement Learning (PPO/DQN)** for portfolio optimization.
+*  **Model Quantization** to optimize inference speed in SaaS environments.
+*  **Microservices Architecture** for scalable trading backends.
