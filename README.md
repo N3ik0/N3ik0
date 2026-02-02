@@ -18,6 +18,13 @@ I am developing a decision-making architecture based on **Ensemble Learning** to
 *  **Computer Vision (CNN):** Technical analysis and chart pattern detection using Convolutional Neural Networks.
 *  **Macroeconomics:** Integration of exogenous variables for global context.
 
+**🎯 Cs2 Market Scrapper**
+As a side project I develop an autonomous market-monitoring solution designed to detect and exploit pricing inefficiencies (gaps) within the Counter-Strike 2 skin economy.
+
+*  **Asynchronous Backend: Developed with Python and FastAPI to ensure low-latency data ingestion and high-concurrency processing.
+*  **Real-Time Pipeline: Custom-built scrapers monitoring cross-platform data to identify liquidity gaps and price discrepancies.
+*  **Event-Driven Alerting: Instant Discord Webhook notifications triggered by custom ROI and volatility thresholds.
+*  **Full-Stack Interface: Reactive React dashboard for dynamic parameter tuning and real-time market visualization.
 ---
 
 ### 🎯 My Philosophy
